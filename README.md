@@ -9,5 +9,5 @@
 - showcases practical use of various SQL queries
 
 ## [Project 3: Superstore Profit Analysis Tableau dashboard](https://public.tableau.com/app/profile/piotr.l/viz/SuperstoreProfitAnalysis_17009516963900/Dashboard)
-- intaractive dashboard with visualisations that can help analyse Superstore's performance
+- intaractive dashboard with visualizations that can help analyse Superstore's performance
 ![Superstore dashboard](/images/Superstore%20dashboard.png)
