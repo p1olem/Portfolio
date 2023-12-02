@@ -10,4 +10,4 @@
 
 ## [Project 3: Superstore Profit Analysis Tableau dashboard](https://public.tableau.com/app/profile/piotr.l/viz/SuperstoreProfitAnalysis_17009516963900/Dashboard)
 - interactive dashboard with visualizations that can help analyse Superstore's performance
-![Superstore dashboard](/images/Superstore%20dashboard.png)
+
