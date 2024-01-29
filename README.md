@@ -1,10 +1,10 @@
 # Portfolio
 
-## [Project 1: Analiza porównawcza GARCH](https://github.com/p1olem/sql-projects/blob/main/dvd-rental-practice.sql) 
+## [Project 1: Analiza porównawcza GARCH](https://github.com/p1olem/r-projects/tree/main/GARCH%20practice) 
 - showcases example of time series analysis in R
 - compares goodness-of-fit and performance of fitted GARCH models
 
-## [Project 2: DVD Rental SQL practice](https://github.com/p1olem/r-projects/tree/main/GARCH%20practice) 
+## [Project 2: DVD Rental SQL practice](https://github.com/p1olem/sql-projects/blob/main/dvd-rental-practice.sql) 
 - explores rental stores' database  
 - showcases practical use of various SQL queries
 
