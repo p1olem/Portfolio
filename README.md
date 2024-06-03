@@ -23,4 +23,4 @@
   5. The best selling pizza is the Thai Chicken Pizza and the worst selling pizza is the Brie Carre Pizza.
   6. Most ordered size is L and preferred category among customers is Classic.
 
-![Pizza Sales dashboard](/images/Power Bi Pizza dashboard.png)
+![Pizza Sales dashboard](/images/Power%20Bi%20Pizza%20dashboard.png)
